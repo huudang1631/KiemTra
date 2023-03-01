@@ -8,12 +8,15 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Đăng Nhập</h2>
-    <form action="" method="">
+<h2>Đăng Nhập</h2>
+   <div class="login">
+   <form action="" method="">
         <label for="">Tên Người Dùng</label>
         <input type="text" name="username" class="txtUserName">
         <label for="">Mật Khẩu</label>
-        <input type="text" name="password" class="txtMatKhau">
+        <input type="text" name="password" class="txtmatkhau">
     </form>
+   </div> 
+    
 </body>
 </html>
